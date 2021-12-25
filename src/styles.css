@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+}
+
+.container {
+  display: flex;
+}
+
+div.photo-left-container {
+  justify-content: left;
+}
+
+div.photo-right-container {
+  /* justify-content: right */
+  position: absolute;
+  right: 150px;
+}
+
+div.photo-left-container {
+  justify-content: center;
+}
